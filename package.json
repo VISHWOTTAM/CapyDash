@@ -1,0 +1,9 @@
+{
+  "name": "capydash-relay",
+  "version": "1.0.0",
+  "description": "Room-code relay server for CapyDash online co-op",
+  "main": "relay.js",
+  "scripts": { "start": "node relay.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
